@@ -1,3 +1,5 @@
+![logo](https://github.com/UmeshGuptaIndia1994/UmeshGuptaIndia1994/blob/main/GitHub%20Cover%20Photo%20UG.jpeg)
+
 <h1 align="center">Hi 👋, I'm Umesh Gupta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
