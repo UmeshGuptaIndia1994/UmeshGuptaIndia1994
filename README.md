@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Op8evKgzL94WzPAvUgtyZA_PRqPsguoY/view?usp=sharing](https://drive.google.com/file/d/1Op8evKgzL94WzPAvUgtyZA_PRqPsguoY/view?usp=sharing)
 
-- ⚡ Fun fact **I Think I am Funny 😂😜😎**
+- ⚡ Fun fact **I Love to play Cricket🏏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
