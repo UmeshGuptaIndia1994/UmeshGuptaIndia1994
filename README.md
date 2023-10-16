@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/UmeshGuptaIndia1994/UmeshGuptaIndia1994/assets/136713880/39a1d9fe-3cea-47af-8a3c-c8c572f6ae2e)
+<img align="right" alt="coding" width="400" src="![image] https://github.com/UmeshGuptaIndia1994/UmeshGuptaIndia1994/assets/136713880/39a1d9fe-3cea-47af-8a3c-c8c572f6ae2e
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshguptaindia1994&label=Profile%20views&color=0e75b6&style=flat" alt="umeshguptaindia1994" /> </p>
