@@ -32,7 +32,7 @@
 <a href="https://www.youtube.com/channel/UCpH09TiiXZihVfjLFB0XZHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@umeshguptaindia1952" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ukg1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ukg1994" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dt202102068758/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dt202102068758/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/httukg1994/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="httukg1994/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ukg1994/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="httukg1994/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
