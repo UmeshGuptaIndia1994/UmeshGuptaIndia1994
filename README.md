@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ukg1994" target="blank"><img src="https://img.shields.io/twitter/follow/ukg1994?logo=twitter&style=for-the-badge" alt="ukg1994" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1E8w6tXL6vsVQHhmd9RGXL&ust=1697306406347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj-hZ3N84EDFQAAAAAdAAAAABAH">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1E8w6tXL6vsVQHhmd9RGXL&ust=1697306406347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj-hZ3N84EDFQAAAAAdAAAAABAH](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
 - 🔭 I’m currently working on **Library Management System**
 
