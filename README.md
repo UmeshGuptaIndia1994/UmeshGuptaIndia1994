@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm UMESH GUPTA</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/UmeshGuptaIndia1994/UmeshGuptaIndia1994/assets/136713880/d0173006-a14a-40cd-aaf7-c7755e56e003)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshguptaindia1994&label=Profile%20views&color=0e75b6&style=flat" alt="umeshguptaindia1994" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ukg1994" target="blank"><img src="https://img.shields.io/twitter/follow/ukg1994?logo=twitter&style=for-the-badge" alt="ukg1994" /></a> </p>
-
-<img align="right" alt="coding" width="400" src="![image](https://github.com/UmeshGuptaIndia1994/UmeshGuptaIndia1994/assets/136713880/a26d2cd4-28d2-4fbf-8b15-a0e635887fd0)
-">
 
 - 🔭 I’m currently working on **Library Management System**
 
