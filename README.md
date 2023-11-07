@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ukg1994@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Op8evKgzL94WzPAvUgtyZA_PRqPsguoY/view?usp=sharing](https://drive.google.com/file/d/1Op8evKgzL94WzPAvUgtyZA_PRqPsguoY/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1SFIPRTbcHLsrRTXZAsPe-a3d3c7ZgPaa/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play cricket**
 
